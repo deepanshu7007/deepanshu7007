@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Deepanshu Choudhary</h1>
-<h3 align="center">A lazy developer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu7007&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu7007" /> </p>
 
