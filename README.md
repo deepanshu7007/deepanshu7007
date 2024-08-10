@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ERP System**
 
-- 🌱 I’m currently learning **Nextjs,Spring Boot,Blockchain and AI/ML**
+- 🌱 I’m currently learning **Nextjs,Spring Boot,Nestjs,Blockchain and AI/ML**
 
 - 👯 I’m looking to collaborate on **IDURar**
 
 - 📝 I regularly write articles on [https://leetcode.com/u/lazydrago/](https://leetcode.com/u/lazydrago/)
 
-- 💬 Ask me about **Java,JavaScript,DSA**
+- 💬 Ask me about **Java,JavaScript,DSA, Systemdesigns**
 
 - 📫 How to reach me **deepanshu7007@gmail.com**
 
